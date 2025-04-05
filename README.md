@@ -12,8 +12,6 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 - [Problem Statement](#problem-statement)
 - [Tools & Technique used](#tools--technique)
 - [Business Model](#business-model)
-- [Goal](#goal)
-- [Role](#role)
 - [Task](#task)
 - [Data Source](#data-source)
 - [Data Modeling](#data-modeling)
@@ -24,6 +22,7 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 
 ## Problem Statement:
 Atliq’s management noticed they lack the insights needed for quick decision-making. To fix this, they sent business Queries to their data analytics team.
+The goal of this project is to provide clear and accurate insights for 10 specific business questions from the ad hoc requests. These insights will be used by Executive as top management to improve decision-making.
 
 ## Tools & Technique:
 - Data Analysis
@@ -55,7 +54,7 @@ Let's Explain how Atliq Hardware sell their products.
 
   Through **Direct** channel, Atliq sell products diectly to the end user (Consumer).
 
-  Atliq have different kinds of prroductline. Look at the below chart.
+  Atliq have different kinds of productline. Look at the below chart.
 
   <p align="center">
       <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge_4/refs/heads/master/images/business_model/BM-3.png" alt="Product Line Overview" >
@@ -67,8 +66,6 @@ The goal of this project is to provide clear and accurate insights for 10 specif
 business questions from the ad hoc requests. These insights will be used by Executive as
 top management to improve decision-making.
 
-## Role:
-My role is to act as a Junior Data Analyst who is responsible for analyzing business data using SQL and presenting actionable insights to help top-level management make informed decisions.
 
 ## Task:
 - Run SQL queries to answer the 10 ad hoc business requests.
@@ -86,7 +83,6 @@ A sql sump file is provided by Codebasics, which I have imported into MySQL Work
     <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge_4/refs/heads/master/images/DS-overview.png" alt="Dataset Overview" >
   </p>
 
-> To learn more about these tables in details, check out this [Meta Data](./Metadata.txt)
 
 > [!IMPORTANT]
 > Data is available from Fiscal Year 2020 to 2021. At Atliq Hardware fiscal year starts from September month of calendar year (Look at below table for reference).
@@ -100,9 +96,7 @@ Here you can check the Data Model which is used for this project. I have created
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge_4/refs/heads/master/data_model/data-model-preview.png" alt="Data Model Preview" >
-</p>
 
-> You can also check the data model file [here](./data_model/adhoc_data_model.mwb). You can use by downloading it and then open MySQL Workbench: _file_ > _open model_ > select the file. The model is appeared automatically.
 
 ## Business Question (ad-hoc request):
 There are 10 ad-hoc request on which I run SQL query to extract answers and then analyze it for getting key insights from that outputs.
