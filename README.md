@@ -9,8 +9,8 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 
 ## Table of Contents:
 
-- [Tools & Technique used](#tools--technique)
 - [Problem Statement](#problem-statement)
+- [Tools & Technique used](#tools--technique)
 - [Business Model](#business-model)
 - [Goal](#goal)
 - [Role](#role)
@@ -37,9 +37,6 @@ Atliq’s management noticed they lack the insights needed for quick decision-ma
    - Git & Github
    - VS Code Editor
 
-
-## Problem Statement:
-Atliq’s management noticed they lack the insights needed for quick decision-making. To fix this, they sent business Queries to their data analytics team.
 
 ## Business Model:
 Let's Explain how Atliq Hardware sell their products. 
