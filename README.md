@@ -1,4 +1,4 @@
-# [Resume Project Challenge - 4](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+# Atliq Hardware Business Insights
 
 ### Provide Insights to Management in Consumer Goods Domain
 
@@ -9,7 +9,6 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 
 ## Table of Contents:
 
-- [Project Presentation](#project-presentation)
 - [Tools & Technique used](#tools--technique)
 - [Problem Statement](#problem-statement)
 - [Business Model](#business-model)
@@ -21,16 +20,10 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 - [Business Question (ad-hoc request)](#business-question-ad-hoc-request)
 - [SQL Query](#sql-query)
 - [Results and Insights](#results-and-insights)
-
-
-## Project Presentation:
-
-<p align="center">
-<a href="https://youtu.be/lBUfhgtP6m4" target="_blank">
-  <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge_4/refs/heads/master/images/video-presentation-thumnail.png" alt="Presentation Preview" style="width: 70%; max-width: 360px;">
   
-</a>
-</p>
+
+## Problem Statement:
+Atliq’s management noticed they lack the insights needed for quick decision-making. To fix this, they sent business Queries to their data analytics team.
 
 ## Tools & Technique:
 - Data Analysis
@@ -38,21 +31,15 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
    - Microsoft Power BI Desktop
    - Data Modeling
    - MySQL Workbench
-   - SQL (CTE, Join, Sub Query, Window Function, Explain Analyze)
+   - SQL (CTE, Join, Sub Query, Window Function)
 
 - Project Documentation
    - Git & Github
    - VS Code Editor
 
-- Video Recording & Presentation
-   - OBS Studio
-   - Microsoft Clipchamp - Video Editor
-   - Microsoft Power Point
 
 ## Problem Statement:
-Atliq’s management noticed they lack the insights needed for quick decision-making. To fix this, they plan to hire junior data analysts who are skilled in both technology and communication.
-
-Tony Sharma, the Data Analytics Director, has set up a SQL challenge to find the right candidates.
+Atliq’s management noticed they lack the insights needed for quick decision-making. To fix this, they sent business Queries to their data analytics team.
 
 ## Business Model:
 Let's Explain how Atliq Hardware sell their products. 
