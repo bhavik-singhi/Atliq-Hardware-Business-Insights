@@ -11,7 +11,7 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 
 - [Problem Statement](#problem-statement)
 - [Tools & Technique used](#tools--technique)
-- [Results and Insights](#Results and Insights)
+- [Results and Insights](#results-and-insights)
 - [Business Model](#business-model)
 - [Task](#task)
 - [Data Source](#data-source)
@@ -38,6 +38,8 @@ The goal of this project is to provide clear and accurate insights for 10 specif
    - VS Code Editor
 
 ## Results and Insights:
+xyx
+
 
 ## Business Model:
 Let's Explain how Atliq Hardware sell their products. 
