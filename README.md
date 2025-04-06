@@ -101,7 +101,7 @@ Here you can check the Data Model which is used for this project. I have created
 ## Business Question (ad-hoc request):
 There are 10 ad-hoc request on which I run SQL query to extract answers and then analyze it for getting key insights from that outputs.
 
-You can see the ad-hoc requests [here](./ad-hoc-requests.pdf)
+You can see the ad-hoc requests [here](https://github.com/bhavik-singhi/Atliq-Hardware-Business-Insights/blob/main/Assets/Ad-hoc-requests.pdf)
 
 ## SQL Query:
 Check out all SQL Queries from [here](./sql_query/ad-hoc-requests-query.sql)
