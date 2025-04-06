@@ -133,12 +133,6 @@ The goal of this project is to provide clear and accurate insights for 10 specif
 business questions from the ad hoc requests. These insights will be used by Executive as
 top management to improve decision-making.
 
-
-## Task:
-- Run SQL queries to answer the 10 ad hoc business requests.
-- Analyze the data and identify key insights that respond to the needs of the business.
-- Create a presentation that clearly shows these insights in a way that top-level management can easily understand and use for decision-making.
-
 ## Data Source:
 
 A sql sump file is provided by Codebasics, which I have imported into MySQL Workbench and have got access the database named *_gdb023_* (atliq_hardware_db). It includes six main tables:
@@ -163,12 +157,6 @@ Here you can check the Data Model which is used for this project. I have created
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge_4/refs/heads/master/data_model/data-model-preview.png" alt="Data Model Preview" >
-
-
-## Business Question (ad-hoc request):
-There are 10 ad-hoc request on which I run SQL query to extract answers and then analyze it for getting key insights from that outputs.
-
-You can see the ad-hoc requests [here](https://github.com/bhavik-singhi/Atliq-Hardware-Business-Insights/blob/main/Assets/Ad-hoc-requests.pdf)
 
 ## SQL Query:
 Check out all SQL Queries from [here](https://github.com/bhavik-singhi/Atliq-Hardware-Business-Insights/blob/main/SQL_Code.sql)
