@@ -14,10 +14,8 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 - [Results and Insights](#results-and-insights)
 - [Tools & Technique used](#tools--technique)
 - [Business Model](#business-model)
-- [Task](#task)
 - [Data Source](#data-source)
 - [Data Modeling](#data-modeling)
-- [Business Question (ad-hoc request)](#business-question-ad-hoc-request)
 - [SQL Query](#sql-query)
   
 
