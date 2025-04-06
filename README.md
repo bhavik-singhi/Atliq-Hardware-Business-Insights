@@ -25,6 +25,13 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 Atliq’s management noticed they lack the insights needed for quick decision-making. To fix this, they sent business Queries to their data analytics team.
 The goal of this project is to provide clear and accurate insights for 10 specific business questions from the ad hoc requests. These insights will be used by Executive as top management to improve decision-making.
 
+**Tasks**
+- Run SQL queries to answer the 10 ad hoc business requests.
+- Analyze the data and identify key insights that respond to the needs of the business.
+- Create a presentation that clearly shows these insights in a way that top-level management can easily understand and use for decision-making.
+
+
+
 ## Business Queries by Management: 
 1.  Provide the list of markets in which customer  "Atliq  Exclusive"  operates its business in the  APAC  region. 
 
