@@ -123,7 +123,7 @@ Let's Explain how Atliq Hardware sell their products.
 
 ## Data Source:
 
-A sql sump file is provided by Codebasics, which I have imported into MySQL Workbench and have got access the database named *_gdb023_* (atliq_hardware_db). It includes six main tables:
+A sql sump file is provided by Codebasics, which I have imported into MySQL Workbench and have got access the database named *_gdb046_* (atliq_hardware_db). It includes six main tables:
 
 <p align="center"> Preview </p>
 
