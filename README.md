@@ -127,12 +127,6 @@ Let's Explain how Atliq Hardware sell their products.
       <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge_4/refs/heads/master/images/business_model/BM-3.png" alt="Product Line Overview" >
     </p>
 
-
-## Goal:
-The goal of this project is to provide clear and accurate insights for 10 specific 
-business questions from the ad hoc requests. These insights will be used by Executive as
-top management to improve decision-making.
-
 ## Data Source:
 
 A sql sump file is provided by Codebasics, which I have imported into MySQL Workbench and have got access the database named *_gdb023_* (atliq_hardware_db). It includes six main tables:
