@@ -93,7 +93,6 @@ Ths [Presentation](https://github.com/bhavik-singhi/Atliq-Hardware-Business-Insi
 
 ## Tools & Technique:
 - Data Analysis
-   - Microsoft Excel
    - Microsoft Power BI Desktop
    - MS Powerpoint
    - Data Modeling
